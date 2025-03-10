@@ -1,3 +1,21 @@
+
+.tulisan{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 0%;
+}
+
+.judul{
+  text-align: center;
+  text-shadow:
+  1px 1px 2px black,
+  0 0 1em blue,
+  0 0 0.2em blue;
+  color: white;
+  font: 1.5em Georgia,serif;
+}
+
 .content {
   display: flex;
   align-items: center;
